@@ -1,10 +1,10 @@
-# GrayPockets - Gift It To Me - Fixes
+# GrayPockets - Gift It To Me - Cooks
 
 ## Description
 
-This mod fixes several items in "Gift It To Me"
+This mod cooks several items in "Gift It To Me"
 
-* Support Barbarian Clans game mode.
+* Support Barbarian Clans game mode
 
 ## Mod Support
 
