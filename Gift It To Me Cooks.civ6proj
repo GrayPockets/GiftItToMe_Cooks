@@ -20,6 +20,7 @@
     <InGameActionData><![CDATA[<InGameActions><ImportFiles id="Import_GiftItToMeCooks"><Properties><LoadOrder>13067</LoadOrder></Properties><File>Lua/GiftUnit.lua</File><File>Lua/UnitFlagManager_GITM.lua</File></ImportFiles></InGameActions>]]></InGameActionData>
     <AssociationData><![CDATA[<Associations>
   <Dependency type="Mod" title="Gift It To Me" id="1b4953d4-423c-11e9-b210-d663bd873d93" />
+  <Reference type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
   <Reference type="Mod" title="Better Builder Charges Tracking" id="c6477d9f-6bad-4d24-9e76-49cda4f0a966" />
   <Reference type="Mod" title="CIVILIZATION VI: [COLOR:ResGoldLabelCS]CITY LIGHTS[ENDCOLOR]" id="95b955fc-2dd1-41c5-989e-0265d98a28bd" />
   <Reference type="Mod" title="Leugi's [COLOR:ResGoldLabelCS]Monopoly++:[ENDCOLOR] Tycoons and Investors" id="b248a322-3e2a-4a6a-830a-6b0d1f3435fc" />
